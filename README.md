@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![FlowerInTheRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowerInTheRain)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FlowerInTheRain/FlowerInTheRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
