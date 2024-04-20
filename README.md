@@ -1,5 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerInTheRain&theme=vue-dark)](https://github.com/FlowerInTheRain/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowerInTheRain&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerInTheRain&theme=vue-dark&layout=compact&card_width=400px&line_height=25&langs_count=14" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FlowerInTheRain&theme=vue-dark&card_width=200px&include_all_commits=false&hide_rank=true" />
+</a>
+
 <!--
 **FlowerInTheRain/FlowerInTheRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
