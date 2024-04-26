@@ -1,4 +1,4 @@
-<div style="margin-left:40%">
+<div style="margin-left:40%; position:absolute">
     <img src="https://streak-stats.demolab.com?user=FlowerInTheRain&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=450px" alt="GitHub Streak" />
     <br/>
     <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerInTheRain&theme=github_dark_dimmed&layout=compact&card_width=320px&line_height=25&langs_count=14&text_bold=true&hide_border=true" />
